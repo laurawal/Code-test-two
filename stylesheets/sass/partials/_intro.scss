@@ -1,0 +1,22 @@
+//sorting out the main img 
+
+.fullscreen-img-container{
+  width:100%;
+  z-index: -1;
+}
+
+img {
+  width: 100%;
+  position: relative;
+}
+
+.intro-text-img {
+  position: absolute;
+  width: 100%;
+  color: white;
+  top: 20em;
+}
+
+#tagline {
+  color: #024692;
+}
